@@ -9,10 +9,10 @@ Web Form, Web Tables and Api Test Automation with Playwright Typescript
 
 .Playwright version:1.53.1
 
+
 A. Running the Test
 
 Steps:
-
 1.To run the test Download the Node and npm as the above version mentioned.
 
 2.You can open the folder in the command and run the test , by entering the command as 
@@ -30,8 +30,8 @@ B. The Assignment are performed in the POM(Page Object Model) design pattern and
 
 C. The Assignment is in Headed mode where you can view the UI while running the test.
 
-D. The folder Structure is as Below:
 
+D. The folder Structure is as Below:
 CoverGo_assignment/
 ├── api/
 
