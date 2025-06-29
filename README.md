@@ -3,13 +3,13 @@
 Web Form, Web Tables and Api Test Automation with Playwright Typescript
 
 
-Node version: v22.16.0
+.Node version: v22.16.0
 
-npm version: 11.4.2
+.npm version: 11.4.2
 
-Playwright version:1.53.1
+.Playwright version:1.53.1
 
-Running the Test
+A. Running the Test
 
 Steps:
 
@@ -26,13 +26,13 @@ Steps:
 4.View the report by entering the command as
     npx playwright show-report
 
-The Assignment are performed in the POM(Page Object Model) design pattern and also adhering all the task requirements as mentioned in the assignment.
+B. The Assignment are performed in the POM(Page Object Model) design pattern and also adhering all the task requirements as mentioned in the assignment.
 
-The Assignment is in Headed mode where you can view the UI while running the test.
+C. The Assignment is in Headed mode where you can view the UI while running the test.
 
-The folder Structure is as Below:
+D. The folder Structure is as Below:
+
 CoverGo_assignment/
-
 ├── api/
 
 │   ── baseApi.ts
@@ -67,4 +67,4 @@ CoverGo_assignment/
 
 |── package.json
 
-I have captured the screenshot of the failed test for Web Form and Web Tables.
+E. I also have captured the screenshot of the failed test for Web Form and Web Tables in the folder :test-results/screenshots.
